@@ -3,7 +3,7 @@
 3. Environment
 4. Severity
 5. Priority
-6. Steps to reproduce(STP)
+6. Steps to reproduce (STP)
 7. Expected result
 8. Actual result
 9. Description
