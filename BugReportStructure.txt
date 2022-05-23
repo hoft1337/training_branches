@@ -7,4 +7,4 @@
 7. Expected result
 8. Actual result
 9. Description
-10. Attachments (screenshots, videos, text)
+10. Attachments (screenshots, video, text)
